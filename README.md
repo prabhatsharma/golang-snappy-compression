@@ -1,0 +1,1 @@
+# golang compression example usnig snappy
