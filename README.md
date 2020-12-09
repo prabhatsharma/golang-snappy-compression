@@ -1,1 +1,1 @@
-# golang compression example usnig snappy
+# golang compression example using snappy
